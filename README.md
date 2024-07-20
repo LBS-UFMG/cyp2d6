@@ -1,11 +1,12 @@
 # CYP2D6 functional status predictor
 
-Supplementary material for the article "Using machine learning and graph-based signatures to evaluate normal and decreased function CYP2D6 alleles"
+Supplementary material for the article "*Using machine learning and graph-based signatures to evaluate normal and decreased function CYP2D6 alleles*"
+
+Structural signatures generated using SIGNA (https://github.com/LBS-UFMG/signa).
 
 Classes evaluated:
 - Decreased function
 - Normal function 
-
 
 ## Directories
 
