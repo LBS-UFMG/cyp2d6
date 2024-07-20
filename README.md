@@ -4,7 +4,7 @@ Supplementary material for the article "Using machine learning and graph-based s
 
 Classes evaluated:
 - Decreased function
-- Normal function
+- Normal function 
 
 
 ## Directories
