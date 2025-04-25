@@ -13,3 +13,5 @@ Classes evaluated:
 - **/data** - Contains sequence data in fasta format, as well as structures modeled using ColabFold. Additionally, input tables are available in the input.xlsx file.
 
 - **/machine_learning** - Contains files with models built using the Orange Data Mining tool. Structural signatures can be obtained in the structure_input.csv file. The table with SNPs used in sequence-based models can be obtained in the sequence_input.tsv file.
+
+- **/supplementay_material/** - Contains tables S1 and S2.
